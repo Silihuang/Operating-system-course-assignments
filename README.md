@@ -1,2 +1,2 @@
-# Operating-System-course assignments
+# Operating-system-course assignments
 ### College-course in junior year
